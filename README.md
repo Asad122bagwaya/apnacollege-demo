@@ -1,4 +1,4 @@
 # apnacollege-demo
 it is about our college repo
 <br>
-author  : M,Asad
+author  : M,Asad-jatt
